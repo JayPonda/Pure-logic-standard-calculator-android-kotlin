@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- memory button styles -->
+    <style name="Memory_button_enable" parent="Widget.AppCompat.Button.Borderless">
+        <item name="android:layout_weight">1</item>
+        <item name="android:color">@color/memory_enable</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:drawableTint">@color/memory_enable</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+
+    <!-- memory button styles -->
+    <style name="Memory_button_on_sheet">
+        <item name="android:color">@color/memory_enable</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:backgroundTint">@color/button_background</item>
+        <item name="android:layout_margin">1dp</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+
+    <!-- text button styles -->
+    <style name="cals_button_enable" parent="Widget.AppCompat.Button.Borderless">
+        <item name="android:layout_weight">1</item>
+        <item name="android:background">@drawable/button_round_border</item>
+        <item name="android:layout_margin">1dp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">60dp</item>
+        <item name="android:textSize">28sp</item>
+        <item name="android:textColor">@color/button_text</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <!-- dark button styles -->
+    <style name="cals_img_button_enable" parent="Widget.AppCompat.Button.Borderless">
+        <item name="android:layout_weight">1</item>
+        <item name="android:background">@drawable/button_round_border</item>
+        <item name="android:layout_margin">1dp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">60dp</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:padding">12dp</item>
+        <item name="android:backgroundTint">@color/dark_button_background</item>
+        <item name="android:tint">@color/dark_button_text</item>
+        <item name="android:scaleType">fitCenter</item>
+    </style>
+
+
+    <!-- special styles -->
+    <style name="specialStyles_img_button_enable" parent="Widget.AppCompat.Button.Borderless">
+        <item name="android:layout_weight">1</item>
+        <item name="android:background">@drawable/button_round_border</item>
+        <item name="android:layout_margin">1dp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">60dp</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:paddingHorizontal">35dp</item>
+        <item name="android:backgroundTint">@color/dark_button_background</item>
+        <item name="android:tint">@color/dark_button_text</item>
+        <item name="android:scaleType">fitCenter</item>
+    </style>
+
+    <style name="ce_btn_style">
+        <item name="android:background">@drawable/cp_border</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">10dp</item>
+        <item name="android:padding">5dp</item>
+        <item name="android:scaleType">fitCenter</item>
+        <item name="android:tint">@color/black</item>
+    </style>
+
+</resources>

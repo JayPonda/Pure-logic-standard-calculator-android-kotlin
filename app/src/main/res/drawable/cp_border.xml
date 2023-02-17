@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners
+        android:radius="40dp"/>
+
+    <solid
+        android:color="@color/sidebar_text"/>
+
+    <size
+        android:height="@dimen/collapse_expand_btn_size"
+        android:width="@dimen/collapse_expand_btn_size"/>
+</shape>

@@ -1,0 +1,53 @@
+<resources>
+    <!-- calculator text strings -->
+    <string name="app_name">Calculator</string>
+
+    <!-- header -->
+    <string name="history">History</string>
+
+    <!-- text view -->
+    <string name="preprocess_string" />
+    <string name="answer" />
+
+    <!-- memory text -->
+    <string name="mc">MC</string>
+    <string name="mr">MR</string>
+    <string name="m_plus">M+</string>
+    <string name="m_minus">M-</string>
+    <string name="ms">MS</string>
+    <string name="show_memory">M</string>
+
+    <!-- calculator button text -->
+    <string name="ce">CE</string>
+    <string name="c">C</string>
+    <string name="_0">0</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="dot">.</string>
+
+    <!-- string comp description -->
+    <string name="percentage">percentage</string>
+    <string name="delete">delete</string>
+    <string name="one_upon">one upon</string>
+    <string name="square">square of</string>
+    <string name="square_root_of">square root of</string>
+    <string name="divide_by">divide by</string>
+    <string name="multiply_by">multiply by</string>
+    <string name="subtract">subtract</string>
+    <string name="summation">summation</string>
+    <string name="negative">negative</string>
+    <string name="equals_to">equals to</string>
+    <string name="delete_history">delete_history</string>
+    <string name="scroll_to_top">scroll to top</string>
+    <string name="scroll_and_continue_previous">scroll and continue previous</string>
+    <string name="expand_list">expand list</string>
+    <string name="collapse_list">collapse list</string>
+
+</resources>

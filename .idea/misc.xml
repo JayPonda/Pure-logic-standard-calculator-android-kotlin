@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/mini_project/Calculator/app/src/main/res/drawable/_772624_math_mathematics_square_square_sign_x_square_icon.xml" value="0.1" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/mini_project/Calculator/app/src/main/res/drawable/akar_icons_minus.xml" value="0.121" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/mini_project/Calculator/app/src/main/res/drawable/button__round_border.xml" value="0.136" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/mini_project/Calculator/app/src/main/res/drawable/button_round_border.xml" value="0.121" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/mini_project/Calculator/app/src/main/res/drawable/clear.xml" value="0.121" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/mini_project/Calculator/app/src/main/res/drawable/equal.xml" value="0.121" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/mini_project/Calculator/app/src/main/res/drawable/eva_percent_fill.xml" value="0.121" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/mini_project/Calculator/app/src/main/res/drawable/ic_baseline_calculate_24.xml" value="0.121" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/mini_project/Calculator/app/src/main/res/drawable/ic_baseline_history_24.xml" value="0.121" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/mini_project/Calculator/app/src/main/res/drawable/ic_baseline_keyboard_arrow_down_24.xml" value="0.121" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/mini_project/Calculator/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.121" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/mini_project/Calculator/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2235" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/mini_project/Calculator/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.121" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/mini_project/Calculator/app/src/main/res/drawable/ic_round_plus_minus_alt.xml" value="0.121" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/mini_project/Calculator/app/src/main/res/drawable/mdi_square_root.xml" value="0.12" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/mini_project/Calculator/app/src/main/res/drawable/minus.xml" value="0.121" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/mini_project/Calculator/app/src/main/res/drawable/multiply_line.xml" value="0.121" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/mini_project/Calculator/app/src/main/res/drawable/one_by_x.xml" value="0.212" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/mini_project/Calculator/app/src/main/res/drawable/one_by_x_1.xml" value="0.212" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/mini_project/Calculator/app/src/main/res/drawable/plus_icons_plus.xml" value="0.121" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/mini_project/Calculator/app/src/main/res/drawable/root.xml" value="0.121" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/mini_project/Calculator/app/src/main/res/drawable/solid_divide.xml" value="0.121" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/mini_project/Calculator/app/src/main/res/drawable/x_square.xml" value="0.212" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/mini_project/Calculator/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/mini_project/Calculator/app/src/main/res/layout/bottom_sheet_templete.xml" value="0.25" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/mini_project/Calculator_projects/Calculator/app/src/main/res/drawable/button_round_border.xml" value="0.1415" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/mini_project/Calculator_projects/Calculator/app/src/main/res/drawable/clear.xml" value="0.1155" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/mini_project/Calculator_projects/Calculator/app/src/main/res/drawable/group_bg.xml" value="0.12" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/mini_project/Calculator_projects/Calculator/app/src/main/res/drawable/history_cell_style.xml" value="0.178" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/mini_project/Calculator_projects/Calculator/app/src/main/res/drawable/history_template_border.xml" value="0.113" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/mini_project/Calculator_projects/Calculator/app/src/main/res/drawable/ic_baseline_calculate_24.xml" value="0.1155" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/mini_project/Calculator_projects/Calculator/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.127" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/mini_project/Calculator_projects/Calculator/app/src/main/res/drawable/ic_baseline_history_24.xml" value="0.1155" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/mini_project/Calculator_projects/Calculator/app/src/main/res/layout/activity_history.xml" value="0.20521590423257802" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/mini_project/Calculator_projects/Calculator/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/mini_project/Calculator_projects/Calculator/app/src/main/res/layout/bottom_sheet_templete.xml" value="0.25" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/mini_project/Calculator_projects/Calculator/app/src/main/res/layout/history_template.xml" value="0.4" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/mini_project/Calculator_projects/Calculator/app/src/main/res/layout/main_history_template.xml" value="0.20521590423257802" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/mini_project/Calculator_projects/Calculator/app/src/main/res/layout/memory_log_template.xml" value="0.536" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/mini_project/Calculator_projects/Calculator/app/src/main/res/menu/base_menu.xml" value="0.264" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/mini_project/Calculator_projects/Calculator/app/src/main/res/menu/history.xml" value="0.20521590423257802" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/mini_project/Calculator_projects/Calculator/app/src/main/res/menu/history_page_menu.xml" value="0.20436083796494228" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/mini_project/Calculator_projects/Calculator/app/src/main/res/menu/menus.xml" value="0.6" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
